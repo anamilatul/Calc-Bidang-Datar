@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kalkulator B\'Datar</string>
+    <string name="keliling">Keliling = 0</string>
+    <string name="luas">Luas = 0</string>
+    <string name="hasil_perhitungan">Hasil Perhitungan</string>
+    <string name="lingkaran">Lingkaran</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="persegi">Persegi</string>
+    <string name="hitung">Hitung :</string>
+    <string name="lebar_tinggi">Lebar / Tinggi</string>
+    <string name="second_data">Second Data :</string>
+    <string name="panjang_alas_diameter">Panjang / Alas / Diameter</string>
+    <string name="hitung_luas_dan_keliling">Hitung Luas dan Keliling</string>
+    <string name="first_data">First Data :</string>
+
+</resources>
